@@ -1,0 +1,41 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1869-09"
+citations: ["1 Unrep. Tenn. Cas. 274"]
+reporter: "unrep-tenn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Alvin Hawkins, George Andeews, Andrew J. McLain, Judges."]
+parties: ["Eliza A. Trim and Anderson Trim v. John McPherson."]
+source_url: "https://static.case.law/unrep-tenn-cas/1/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8481977
+cites_cases: ["7 Pet. 222"]
+---
+
+# Trim v. McPherson
+
+## Majority (Andrews, J.,)
+
+Andrews, J.,
+delivered the opinion of the Court:
+A motion is made to dismiss the writ of error in this cause upon the ground that it was not sued out within the time limited by law.
+The bill of complaint in the cause was filed in 1858, for the purpose of establishing the equitable title of complainant Eliza A. Trim to a tract of land, and prays that the legal title be divested out of the defendants and vested in the complainant.
+On the 31st day of August, 1860, a final decree was entered dismissing the bill with costs. No appeal was taken from his decree, but on the 6th day of April, 1867, the complainant filed a transcript of the record in the office of the Clerk of the Supreme Court, and sued out a writ of error.
+By the provisions of the Code, section 3180, the Clerk of the Supreme Court without the order of the court, or a Judge, is authorized to issue a writ of error only within one year after the judgment or decree.
+Section four of the schedule to the Constitutional amendments of 1865, provides as follows : “No statute of limitations shall be held to operate from and after the 6th day of May, 1861, until such time hereafter as the Legislature may prescribe ; nor shall any writ of error be refused or abated, in any cause or suit, decided since the 6th day of May, 1861, and prior to this time by reason of any lapse of time.”
+The writ of error in this cause is not within the saving of the above section. The final decree was rendered August 31st, 1860; more than eight months prior to the date therein fixed.
+And we cannot say that in cases decided within one year prior to May 6th, 1861, the bar of the statute being but partly accomplished, the time ceased to run against the writ after that date; for that would be to make the section say in effect, what it does not say in terms, and what it impliedly excludes, that the writ of error should not be refused or barred by reason of lapse of time in any cause decided within one year prior to the 6th day of May, 1861.
+Neither is this case provided for by that clause of the section above quoted, which declares that “ no statute of limitations shall be held to operate from and after the 6th day of May, 1861,” etc.
+It is true that a proceeding by writ of error is often spoken of as being an action, or in the nature of an action. And in this view, the statute limiting the time within which such a writ may be sued out, might not inappropriately be termed a statute of limitation. But this term is not usually applied to the statutes regulating appellate proceedings, and cannot have that application in the section of the schedule now under consideration. In Reynolds vs. Baker, decided by this court at the last special term at Knoxville, the same constitutional provision was held not to be applicable to the statutes regulating the time within which land sold under execution might be redeemed ; and much of the reasoning in that case will apply to the present.
+But the express provision made for writs of error in the same section, shows conclusively that it was not intended to embrace the statutes regulating these writs within the general provision in regard to statutes of limitation.
+On the 80th of May, 1865, an Act was passed by the Legislature which repeats the above constitutional provision, that no statute of limitation shall be held to operate from and after the 6th day of May, 1861; fixes the 1st day of January, 1867, as the date from which the statute shall again commence to run; and then declares: “Nor shall any writ of error be refused or barred in any suit decided since the 6th day of May, 1861, or within one year immediately prior to that date, by reason.of lapse of time.
+This statute in express terms provides for the present case, but we are compelled to hold it in its application to this case invalid. At the time of the passage of this Act, the writ of error was completely barred under the existing law, and no mere legislation could bestow a new right to the writ.
+In regard to statutes of limitation, properly so called, it is held that when the period prescribed by statutes has already run, so as to extinguish a claim which one might have made to property in the possession of another, the title to the property will be regarded as vested in the possessor. Cooley, Const. Lim. 365.
+A Statute attempting to confer the right to an appeal or writ of error from a final decree adjudicating the right of property, after the time allowed by the previously existing law has expired, would be objectionable as an invasion of vested rights.
+It cannot give a new right to one party without taking away a corresponding right from the other party. Sedgw. on Const. Law, 195, 196. Angell on Lim. p. 11.
+In Sampeyreac v. United States, 7 Pet. 222, it seems to have been thought by the court that an act of Congress giving the right to file a bill of review where no such right existed before, and after the time allowed for appeal had expired, was valid; but the case went off upon the point that the former decree was a nullity, being in favor of a ficticious person, and the precise question was not decided, the court holding properly, that under the Constitution of the United States, the retrospective character of this legislation constituted no objection to it.
+The act of the legislature purports to confer upon one of the parties to a litigation already terminated, aright against the other party which had no existence at the time of the passage of the act. Such legislation is an attempt to confer a right, and not merely a regulation of the remedy.
+The result is that the writ of error in this cause “Vas not obtained within the time limited by law, and it must be dismissed.
+Writ of error dismissed.
+Note — The above case is in accord with Girdner v. Stephens, and Henderson, v. Felkner, Knoxville, September Term, 1870. These rases will probably appear in the first volume of Mr. Heiskell’s Reports. The professional reader is referred to Girdner v. Stephens as published of. ficially by Mr. Heiskell, the State Reporter, for a numerous collection of authorities. As to retroactive laws and laws impairing vested righls, see the oases collected in the note to Article 1, § 20, of the Constitution of Tennessee in Thompson and Steger’s Tennessee Statutes, Vol. 1, p. 70. For a collection of the Tennessee cases arising under the various statutes of limitations of this State, see the same work, Vol. 2, §§ 2754 —2786.
