@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Supreme Court"
 decided: "1875-09"
-citations: ["3 Shan. Cas. 493", "1 Shan. Cas. 488"]
+decided_precision: "month"
+citations: ["3 Shan. Cas. 493"]
 reporter: "shan-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
