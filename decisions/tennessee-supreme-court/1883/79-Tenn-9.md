@@ -1,0 +1,25 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1883-04"
+citations: ["79 Tenn. 9"]
+reporter: "tenn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Slattery v. Albert Lea."]
+source_url: "https://static.case.law/tenn/79/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8537269
+cites_cases: ["6 Lea, 1", "6 Lea, 108", "8 Lea 94"]
+---
+
+# Slattery v. Lea
+
+## Majority (Cooper, J.,)
+
+Cooper, J.,
+delivered the opinion of tbe court.
+Action of ejectment, in which judgment was rendered in favor of the defendant, and plaintiff appealed in error.
+The plaintiff purchased the land in 1866 at a judicial sale made in a suit for partition among the children and heirs of Granville D. Searcy, deceased. Granville D. Searcy was one of six children of Kob-ert Searcy, who was one of the seventeen children of Keuben Searcy, who died in 1815. The land, about 76 acres, was granted by the State June 20, 1838, to the heirs of Keuben Searcy, meaning,- as the proof' clearly shows, the heirs of the Keuben Searcy who died in 1815. The grant was based upon a certificate or warrant for a deficiency in land in Wilson county held under an old North Carolina grant, the property of the ancestor, Keuben Searcy. The warrant for the deficiency had been obtained by Kobert Sear-cy, and there is proof tending to show that the other children left to him the fruit of his discovery. The strict legal title of the plaintiff, upon the muniments introduced by him, would only be -J- of T7- or -j-J-g- part of 76 acres. If he had title to the whole land, the contest was one of boundary.
+The original declaration contained only one count in the plaintiff’s own name. He afterwards filed another count in his own name, and the names of K. T. Searoy and others, who are shown to be the heirs of Keuben Searcy, Jr., who died in 1815, and was one of the seventeen children of Eeuben Searcy, the elder. There is not a particle of proof in the record showing any connection between the title of the plaintiff and the title of the heirs of Eeuben Searcy, Jr. His Honor, the ' trial judge, after explaining to the jury that if, owing to any irregularity in the partition proceedings, the plaintiff had not acquired the legal title of the heirs of Granville D. Searcy, he might have the benefit of their legal title by amended declaration, said: “But he cannot bring into his suit, by amending his declaration, a third party between whom and, himself there is no privity of title or estate whatever, and under and through whom he does not, and cannot claim title. For if this third party could recover on his title, it could in no way benefit the original plaintiff. So in this case, by amending the declaration the title to the land is claimed to be in the heirs of Eeuben Searcy, to whose heirs the land in controversy was granted by the State of Tennessee, which grant has been read in evidence. But the proof introduced by the plaintiff shows that the Eeu-ben Searcy, whose heirs are set out in the declaration, was a son of .the Eeuben Searcy to whom the land was granted, and the plaintiff, Slattery, is not claiming title through the Eeuben Searcy heirs mentioned in the declaration, or at least he has introduced no proof tending to show that there is any privity of estate or title whatever between himself and them. So that if they were entitled to recover the land in controversy, or any part of it, it could not possibly enure to his benefit so far as this record shows. They are not parties before the court in the sense of bringing a suit to recover the land for themselves. They are brought in on the motion of the original plaintiff on. the idea that he had the right to use their names, so that in the event they could recover and he could not, nevertheless the recovery would enure to his benefit. This view of the case narrows the issue down between the plaintiff Slattery on the one side and the defendant on the other.”
+The only error assigned for reversal is in this part of the charge as infringing upon the province of the jury. But in the absence of any proof whatever to show a connection between the title of the original plaintiff and these new parties, the charge could not' possibly prejudice the plaintiff. It contains, moreover, a correct exposition of the law in relation to the introduction of new demises in the declaration in an action of ejectment. And if the charge had assumed as conceded the fact that the plaintiff was not claiming title through the heirs of Reuben Searcy mentioned in the declaration, it was the duty of the plaintiff to object to the assumption at once. For otherwise his conduct would operate as a fraud upon the court. A judge may well narrow the matters submitted to the jury in accordance with the express or fairly implied concessions of the parties, so as to lighten the labor of the jury, and hasten the dispatch of business: Hayes v. Cheatham, 6 Lea, 1; McColgan v. Langford, 6 Lea, 108; Manlove v. Searight, 8 Lea 94.
+Affirm the judgment.
