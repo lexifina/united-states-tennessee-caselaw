@@ -1,0 +1,28 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1876-09"
+citations: ["1 Shan. Cas. 663"]
+reporter: "shan-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. H. STEPHENS v. J. M. GILBERT, JR., AND J. M. GILBERT. SR."]
+source_url: "https://static.case.law/shan-cas/1/cases/0663-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2654321
+cites_cases: ["1 Tenn., 249", "1 Yer., 390", "10 Hum., 504", "9 Yer., 10"]
+---
+
+# Stephens v. Gilbert
+
+## Majority (McFarland, J.,)
+
+McFarland, J.,
+delivered the opinion of the court.
+This suit was commenced on the fourth of January, 1871, by an original summons to the county of Carroll, which was executed on same day on one of the defendants, J. M. Gilbert, Jr.; a counterpart was issued to Shelby county for A. N. Edwards and Jno. W. Dodd, which was returned not executed; alias and pluries counterparts were issued, but not executed. At the January term, 1874, an order to supply copies of the process which were shown by affidavits to have been lost, and also to amend by abandoning the suit as to Newton & Dodd, and inserting the name of J. M. Gilbert, Sr., as defendant, in the process. Alias counterparts were thereupon issued to Henry county, and executed on J. M. Gilbert, Sr., on the twenty-sixth of April, 1874, returnable to May term, 1874, and at this term of the court, on the seventh of May, 1874, a declaration was filed; on the same day J. M. Gilbert, Sr., by his attorney, moved the court to strike the cause from the docket, but the motion seems to have never been acted upon, and on the nineteenth of September, 1874, the following agreement was made: “In this case we agree that the pleadings may be made up at the next regular term of this court, so as not to delay the hearing, and it is also agreed that any depositions that may be taken between this and the next term of this court on behalf of the plaintiffs will not be excepted to by the defendants on account of the cause not being at issue.” This agreement was signed by the attorney of J. M. Gilbert, Sr., but not by the attorney of J. M. Gilbert, Jr. On the fifth and sixth of January, 1875, J. M. Gilbert, Jr., and J. M. Gilbert, Sr., each filed pleas in abatement; the first averring that the original summons was served upon him while attending court at Huntingdon, under summons as witness in another case.
+J. lYl. Gilbert, Sr., in his plea sets up the same facts as to the service of the original summons on J. M. Gilbert, Jr., while attending court as a witness in another case, and insists that as the original summons should be abated for this reason, the counterpart should also be abated.
+At the January term, 1875, motion was made to strike the pleas in abatement from the file, which was allowed as to the plea of J. hi. Gilbert, Sr., but disallowed as to the plea of J. M. Gilbert, Jr., and the court also overruled a demurrer to said latter plea, and the plaintiff declining to plead further, the suit was abated as to' J. M. Gilbert, Jr.; and thereupon, upon motion, the suit was also dismissed as to J. M. Gilbert, Sr., upon the ground that as it was abated as to J. M. Gilbert, Jr., upon whom the original summons wras executed, that the court could no longer retain jurisdiction of J. M. Gilbert, Sr., who was only brought into court by counterpart. The plaintiffs have appealed in error.
+We think the court was in error in dismissing the suit as to J. hi. Gilbert, Sr., upon the ground assumed, even conceding that it was properly abated as to J. M. Gilbert, Jr., upon his plea. It might have been a matter of abatement in that event, but the court acted properly in striking out the plea of J. M. Gilbert, Sr. No such plea could be received from him after his agreement. This agreement brought him into court, and afterwards he could not plead in abatement.
+This being so, it was certainly error for the court to allow his motion to accomplish what had been denied to his plea. His agreement having brought him into court, it was no longer competent or important to look into the process by which he was brought in.
+But we think the court also erred in refusing to strike out the plea in abatement of J. M. Gilbert, Jr. Pleas of this character are allowed stricti juris, and no latitude in practice is extended to them. They must always be filed in a right time, in right form, and verified properly before the court will entertain them. Grove v. Campbell, 9 Yer., 10; Little v. Little, 10 Hum., 504. They cannot be received after a general continuance. King’s Dig., 106. The reason is, that such pleas are merely dilatory, and do not go to the merits. The plaintiff’s declaration was filed the sixth of May, 1874. The defendants were then summoned, and in court. The plea in abatement was filed the fifth of January, 1875, after the lapse of two terms, during which time judgment by default might have been taken against him; and although J. M. Gilbert, Jr., did not sign the agreement to plead, yet he was in default, and was probably saved from a judgment by default by the agreement.
+The affidavit of defendant’s attorney, giving reasons for not filing the plea sooner, was only presented when the motion was made to strike out the plea, and besides, the reasons are not sufficient. The only loss of papers shown, occurred some time before, and they had been supplied at the January term, 1874, after which it is not shown they were lost.
+The judgment will be reversed, the pleas stricken out, and the cause remanded, with leave to the defendants to plead over.
