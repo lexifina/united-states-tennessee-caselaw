@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Supreme Court"
 decided: "1875-09"
-citations: ["3 Shan. Cas. 702", "1 Shan. Cas. 473"]
+decided_precision: "month"
+citations: ["3 Shan. Cas. 702"]
 reporter: "shan-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["WILLIAM WILLIAMS v. THE STATE."]
 source_url: "https://static.case.law/shan-cas/3/cases/0702-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8485013
-cites_cases: ["4 Bax., 10", "5 Bax., 681", "5 Sneed, 681"]
 ---
 
 # Williams v. State
