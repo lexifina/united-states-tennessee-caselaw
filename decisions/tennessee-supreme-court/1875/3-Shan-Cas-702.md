@@ -1,0 +1,31 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1875-09"
+citations: ["3 Shan. Cas. 702", "1 Shan. Cas. 473"]
+reporter: "shan-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM WILLIAMS v. THE STATE."]
+source_url: "https://static.case.law/shan-cas/3/cases/0702-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8485013
+cites_cases: ["4 Bax., 10", "5 Bax., 681", "5 Sneed, 681"]
+---
+
+# Williams v. State
+
+## Majority (Nicholson, C. J.,)
+
+Nicholson, C. J.,
+delivered the opinion -of the court:
+William Williams was tried in the circuit court of Shelby county, held at Bartlett, on an indictment for murder in the first degree, for the killing of Jo Fields, on the first of November, 1874, and upon the trial he was found! guilty of murder in the first degree and sentenced to death.
+It is insisted that the judgment ought to be reversed:
+1st. Because when the jury retired to consider of their verdict, the clerk of the court handed to the jury an envelope containing the papers of the cause, on which was written the verdict of guilty of murder in the first degree, rendered by a former jury on a former trial. There is nothing showing that this indorsement in any way influenced the jury in making up their verdict. The fact that there had been a former conviction and the granting of a new trial was a matter of record, and was brought to the knowledge of the jury in the evidence in the canse. The indorsement on the envelope communicated no more knowledge of a former verdict having been rendered than did the proof submitted to the jury by witnesses examined before the jury, and this evidence was offered by the defendant as well as by the state. Besides, if the indorsement informed the jury that a verdict of guilty had been rendered by a former jury, the fact that the case was again being-tried necessarily informed the jury that the former verdict had been set aside by the court, so that if the finding of a former verdict could by possibility have influenced the last jury, that influence was necessarily counteracted and neutralized by the knowledge that the first verdict for some cause was not satisfactory to the court, and was set aside. As there is nothing indicating that the indorsement on the envelope was considered by the jury, or that their verdict was or could have been influenced thereby, we are of opinion that this assignment of error is not well taken.
+2d. It is next insisted that the proof fails to sustain the verdict of murder in the first degree.
+It appears that Simpson Pryor was jointly indicted with defendant for the murder of Pields, and that the district attorney entered a nolle prosequi as to Pryor and used him 'as a -witness for the state. This witness proves that defendant informed him, soon after the occurrence, that he had killed Pields and thrown his body over the fence to prevent it being seen by those passing the road, and that he procured witness to assist him in carrying and concealing the dead body in the Hatchie bottom. If this evidence is to be credited, the guilt of defendant was clear and unquestionable. It is insisted, however, that the evidence -of Pryor was not sufficient to support the verdict, not only because be was indicted as an accomplice, but because Ms testimony was contradicted in material points by other testimony, and because Ms evidence was uncorroborated by other testimony.
+In Ms charge to the jury, the circuit judge instructed the jury correctly as to the credit to be given to the evidence of an accomplice, and that such evidence would not be sufficient to authorize a conviction, unless corroborated as to material facts or circumstances indicating the guilt of the accused either before or after the tragedy. Thus instructed, the jury rendered their verdict. Upon careful consideration of the entire evidence we are satisfied that the testimony of Pryor was strongly corroborated in several material points, and that, in fact, the proof fails to show that Pryor was an accomplice in the murder, but that he was only an accessary after the fact, by aiding Williams in the attempt to conceal-the dead body of Fields, nor were the contradictions of Pryor’s testimony of such a character as to be calculated to destroy his credibility in the estimation of the jury.
+But outside of the evidence of Pryor, after a most patient and critical examination of the entire proof, first by one member of the court and then by all the court, we are fully satisfied that the circumstantial evidence supported the verdict of the jury, and upon this alone the defendant is shown beyond any reasonable doubt to- be gmlty as charged in the indictment.
+We have examined the charge of the circuit judge, and we find it to be a full, clear, and correct exposition of the law as applicable to the facts of the case.
+The result is, that there is no error in the judgment, and the same is affirmed.
+SENTENCE.
+Wm. Williams: .After a fair and impartial trial by a jury of the county, under a correct charge! as to the law, you baye been found guilty of feloniously, willfully, maliciously, deliberately, and premeditatedly taking the life of Jo Fields. This court has re-examined the proceedings with careful scrutiny, and with an earnest determination to give you the benefit of any error which we might find in the court below. We have been able to> discover no such error, and are constrained to declare that you have had a fair and impartial trial, and that the proof fully sustains the verdict of murder in the first degree, which was found against you. IJpon this verdict the law declares your life forfeited, and it becomes my painful duty, in execution of the law, to pronounce against you the sentence of death. You will be taken to the jail of Shelby county, at Memphis, and there to be kept until the 24th day of December, 1875, and on that day, between the hours of ten o’clock a. m. and two o’clock p. m., you will be taken by the sheriff to a gallows, to be, by him, erected for that purpose, within one mile of the courthouse at Bartlett, and be by him thereon hung until you are dead, and may God have mercy on your soul.
