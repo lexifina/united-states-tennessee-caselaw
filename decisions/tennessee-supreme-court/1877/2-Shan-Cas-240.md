@@ -1,0 +1,30 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1877-01"
+decided_precision: "month"
+citations: ["2 Shan. Cas. 240"]
+reporter: "shan-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G. W. PERKINS, TRUSTEE, v. HARDIN SCALES ET AL."]
+source_url: "https://static.case.law/shan-cas/2/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8481017
+---
+
+# Perkins v. Scales
+
+## Majority (PREEMan, J.,)
+
+PREEMan, J.,
+delivered the opinion of the court.
+In order to show the real questions presented in this case, we state the substance of the allegations of the bill, and the defenses set up in the answer of ‘Wilkinson and wife, the latter being the real defendant, the issue being between her and complainant.
+•The original bill is simply a bill to enforce a vendor’s lien, based on the allegations, that Hardin Scales bought the interest of Mrs. Wilkinson in the land by her received from her father’s estate in Davidson county, gave the note sued on, as one installment of the purchase money, of date January, 1858; that Wilkinson and wife indorsed the note to one Mayfield, and he indorsed it, waiving demand and notice, to complainant as trastee; that Hardin is now insolvent, his property attached, and had sold the land to his brother, Robert Scales, who, however, held the land subject to the lien of complainant. This is all of this bill. Ac amended bill was then filed, which only adds to the above the charges that Mrs. Wilkinson made a deed to Hardin Scales, acknowledged it in due form, retaining a lien on the face of it for payment of the purchase money, which, was never registered, however; and that Robert Scales purchased the land from Hardin with full knowledge of the lien, and the money had not been paid; therefore thei land was liable to be sold to pay the note sued on.
+The answer of Mrs. 'Wilkinson sets up as a defense her coverture, denies she ever executed any deed to Scales ns charged, or acknowledged one as required by law; admits she had (unwillingly) agreed to sell Hardin Scales her interest, but says the sale had been rescinded, the other three notes taken up by him, but this one left, because it was deemed to cover about the amount Hardin owed her as executor of her father’s estate.
+It is further stated that the land has been partitioned in Davidson county, she put in possession, and Bobert Scales had abandoned all claim. This is the whole case as made in the pleadings. The proof shows that the note was indorsed by the husband, G-. W. Wilkinson, he signing his own name and that of his wife on the back of the note, thus transferring it to one Mayfield.
+This transfer was made as part payment for a tract of land bought by the husband, who took the title in his wife’s name. She, however, was not present at the trade nor indorsement of the note. The husband stated at the time the note was given for land, and with this knowledge Perkins bought it.
+The only question in the case, on the issue presented in the pleadings by the parties is, if a married woman make a contract of sale of an interest in land descended to her, but does not convey it nor make a deed pursuant to our statute regulations, effective to convey her interest, whether an indorsee of a note given for the land under the circumstances of this case has a lien on the land, and may sell the same to satisfy his debt.
+We take it no lien exists to' enforce in such a case; no lien contract of sale binding on her ever existed out of which the lien could spring. She has not conveyed and cannot be made to convey the land, is not bound by her verbal agreement, so that no sale has, in fact, been made in law.
+It is possible if she had joined in the indorsement of the note herself, and at the time represented to^ Mayfield or Perkins that the note was given for land, and was a lien on it, and they had thereby been induced by her active interference to purchase the note, she would be estopped by the fraud from asserting the contrary, as a married woman has no license to commit a fraud by our law. But the proof shows that she had nothing to do with the transfer of the note, nor did she do anything to induce May-field or Perkins to take the note. They no doubt trusted,, as alleged in the answer, to the then well known wealth oí Hardin Seales, wbo has since been broken by the results of the war. No such fraud is, however, alleged; no such issue is made in the pleadings.
+It is true that the land purchased in part by thei note from Mayfield was sold by her and her husband, and the money collected by enforcing the vendor's lien in the State of Mississippi. But no such state of facts is charged in the bill as ground of relief, and even if they had been charged it would be more than doubtful whether this would aid complainant. No lien existed on her land in Davidson county by the contract or agreement with Hardin Scales, and it would be difficult to fix one on a married woman’s land simply because her husband had indorsed the note in payment for land, taking title to her, which land was afterwards sold and the money realized from it. Ve need not definitely decide this question, however, or further discuss it. As no such facts are alleged in the bill as the ground for relief, but solely the amount of a lien taking the amended bill as part of the original, thei lien created by a sale of land by Mrs. Wilkinson and a deed made by her conveying the land, but not registered; this deed containing an express reservation of a lien on its. face. This being the basis of the relief sought, the ground chosen by complainant on which to rest his case, he must be held to it, and cannot by proof alone make out another and different case, and have a decree in that; as we have frequently said, allegations without, proof nor proof without allegation of facts, cannot be the basis of relief in a court of equity. The chancellor made his decree evidently on the assumption of facts not alleged, on assumption of fraud not charged.
+It must be reversed, and the bill dismissed with costs of this and the court below.
