@@ -1,0 +1,24 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1876-09"
+citations: ["3 Shan. Cas. 712"]
+reporter: "shan-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. WADE v. GEO. TIERNAN & CO."]
+source_url: "https://static.case.law/shan-cas/3/cases/0712-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8485079
+---
+
+# Wade v. Tiernan
+
+## Majority (McFaRland, J.,)
+
+McFaRland, J.,
+delivered the opinion of the court:
+This action was brought by Tiernan & Co. against H. F. Farnsworth and Henry Wade, partners under the firm name of H. F. Farnsworth & Co. The declaration declares for goods, wares, and merchandise sold to the defendants in the years 1859, 1860, and 1861, as shown by their bill, herewith declared upon and sued for. The defendants jointly pleaded nil debet and payment, but subsequently the defendant Wade filed an affidavit purporting- to be a denial of the justness of the account, as required by the Code, sec. 3780 [Shannon’s Code, sec. 5561.] This was by the court held to he an insufficient denial. The affidavit was amended hut again held to be insufficient. The cause was then tried. The account of the plaintiffs was read to the jury, being a proven account from the State of Hew York duly certified. The defendants objected to the account upon the ground that in the affidavit it is described as an account against “W. F. Farnsworth & Co.” and not “H. F. Farnsworth & Co.” The account itself purports to be H. F. Farnsworth & Co. The plaintiffs were permitted to prove, in explanation, that there was but one firm of the sort in Memphis, that is H. F. Farnsworth & Co. There being no other evidence, the judgment was for the plaintiff. The defendants prayed for an appeal, hut Wade only gave bond.
+The first ground assigned as error is that the account was not declared upon, and made profert of -as an account certified from another state, so as to make it incumbent upon the defendants to deny the justice thereof under oath, and therefore the pleas of nil debet and payment were sufficient to put the plaintiffs upon the proof of their case, and that the certified account is not admissible to make out the plaintiffs case. For this we are referred to Hunter v. Anderson, 1 Heis., 1.
+It is true the declaration does not say that the account “declared upon” is a certified account from another state, nor is profert made according to the old form, but the defendants as well as the plaintiff seem to have regarded it as a writ upon -the certified account read to' the jury, and evidently to see and inspect the account, for one of the defendants filed two affidavits intended to deny the justice of the account as required by the statute. The reason given in Hunter v. Anderson for requiring the declaration to show that the action is upon a certified account, is to give the defendants notice, that they may have the opportunity to put in the proper denial, and not be taken by surprise, and deprived of their defense upon the trial; but in this case the account was declared upon and both parties seemed to have regarded it as a suit upon an account certified from another state, the justice of which had to be denied on oath. We think to hold now that no such denial was necessary would be surprise upon the plaintiff.
+The question then is, were the denials in the affidavits of Wade sufficient? These affidavits in substance deny the justice of the account against said Wade. It has been held that a suit upon an account of this character stands upon the footing of a suit upon a note, and consequently Wade being sued as a partner could only deny the partnership by a plea in the nature of a plea of non est factum, which plea he failed to file. It results that he was in the attitude of admitting the existence of the partnership, and that he was a member of the firm. This being so, his denial under oath of the account was not sufficient, because he did not deny that the account was correct against the firm, or against the other defendant. The correctness of the account against the firm not being denied under oath, and the defendant Wade not denying by proper plea that he was a partner, the denial of the account as to him amounts to nothing. In other words, if the account be taken as correct against the firm, and Wade be admitted to have been a member- of the firm, the account was made out against him. The. objection that the affidavit describes the firm as “W. F. Farnsworth & Co.” we think is not valid. This was manifestly a clerical mistake. The account was made out against “II. F. Farnsworth & Co>.” the true style of the firm. The mistake was made by the draftsman of the affidavit.
+Upon the whole, we think there is no substantial error, and affirm the judgment.
