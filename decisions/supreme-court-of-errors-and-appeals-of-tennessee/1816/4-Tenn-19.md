@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Errors and Appeals of Tennessee"
+decided: "1816-11"
+citations: ["1 Hayw. 19", "4 Tenn. 19"]
+reporter: "tenn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Blair, Administrator of Massey Tanner, v. Thomas Brabson."]
+source_url: "https://static.case.law/tenn/4/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5777056
+cites_cases: ["10 Yer. 84", "2 Hum. 192", "3 Yer. 517", "4 Hum. 514", "5 Yer. 452", "7 Yer. 160"]
+---
+
+# Blair v. Brabson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The bill states, in substance, that about the year -, the complainant, for a full, valuable, and adequate consideration, purchased of George Payne, of Virginia, a grant, calling for land in this State, who said he had got it from the defendant for a valuable consideration ; that the land had been sold by the sheriff for taxes, and purchased by the defendant; that no conveyance was made, but that the defendant would make a title as soon as he could get one from the sheriff. The defendant, on being applied to, said he would make a conveyance, or assign the warrant that might be drawn on the grant. The complainant sold his interest in the grant to John Adams ; a warrant was drawn in the defendant’s name, in which, by agreement, Adams and the complainant were to have equal interest. The complainant being about to purchase Adams’ interest in the warrant, they applied to the *defendani, for a transfer, who promised if the complainant would pay John Adams for his half, write an assignment and treat to one dollar’s worth of punch, he would transfer the warrant; but after a compliance by the complainant, he refused, and made another promise that he would assign it to any person to whom the complainant should sell it. He sold it to Thomas Stuart, who applied to the defendant for a transfer, which was refused. The defendant sold the warrant to Stuart, who commenced an action against the complainant and recovered the amount he had paid. The bill prays a decree for damages, for the value of the warrant, and the costs and charges recovered by Stuart. The defendant admits his purchase of land at the sheriff’s sale, but denies ever having given it to Payne, or having received any consideration for it. That Payne took it away by mistake; that defendant got it from Payne to redeem property won by complainant in gaming from Payne when drunk. He denies ever promising to transfer the warrant to complainant, unless he paid him for it, which he refused to do. He admits that he sold and transferred to Stuart.
+From the proof, it appears that the defendant did say that he would assign the warrant to Tanner. This leads to an inquiry into the consideration of that promise. One witness says that before the law passed for issuing warrants by this State, he heard Brabson say that the title was worth nothing; it covered no land, and that he had only got an old watch for it. This statement of the receipt of the watch is only proved by one witness. It is in direct contradiction of a positive averment in the answer. ' It is not corroborated by any circumstances disclosed by the other witnesses; and it is also denied by Payne in his testimony. Therefore, by the rules which govern the courts of equity, cannot be considered as proved. The promise made by Brabson must be viewed as a promise without any consideration received. * For -the circumstance of Tanner’s treating the company with a bowl of punch cannot be considered a consideration on which to found a decree. The next consideration is, what consideration did Tanner pay to Payne for his claim ? The proof is, that Payne gave it to him in lieu of some property which he had won from Payne by gambling ; and if of any value at all, can only be viewed in the light of a security for money won by gaming, and such securities are void both at law and in equity. Again, if the promise had been made on a valid consideration, the remedy ought to have been Ijy action of assumpsit at law, and not in this court. The bill must be dismissed, and it was dismissed.
+See, as to evidence to support bill in chancery, Brown v. Brown, 10 Yer. 84; Tansel v. Pepin, 5 Yer. 452; Gray v. Faris, 7 Yer. 160; Searcy v. Pannell, Cooke, 110; Overton v. Bigelow, 3 Yer. 517; Van Wyck v. Norvell, 2 Hum. 192; Baker v. Barfield, 4 Hum. 514; King’s Digest, 3561, 6949, 9774, et seq.
