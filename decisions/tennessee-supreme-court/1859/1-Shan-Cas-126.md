@@ -1,0 +1,28 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1859-12"
+citations: ["1 Shan. Cas. 126", "Thomp. Cas., 188-191", "1 Unrep. Tenn. Cas. 188"]
+reporter: "shan-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NANCY HILL, BY NEXT FRIEND, v. GEO. W. SHARP."]
+source_url: "https://static.case.law/shan-cas/1/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2651461
+cites_cases: ["4 Bax., 360"]
+---
+
+# Hill v. Sharp
+
+## Majority (Oaruthers, J.,)
+
+Oaruthers, J.,
+delivered the opinion of the court:
+Richard Sharp, father of defendant, and grandfather of complainant, made his will in 1846, and died. He had ten children. In the first clause he gave to his wife, Elizabeth, during her “life or widowhood,” the homestead, together with the use of four slaves, and other personal property. He annexes this provision, “upon the further condition that my wife take care of and rear, during her life and widowhood, our two grandchildren, Amelia Ann Hill and Nancy Hill, children of our daughter, Polly Hill, deceased, until they respectively marry or arrive at the age of twenty-one years.” By the fifth clause, he gives to his son, George W., the defendant, the remainder in the homestead, with the privilege of residing upon, and using a part of the farm and horses during the life of his mother, without accounting therefor, “upon condition that my said son assist my wife in taking care of and raising our grandchildren, Amelia Ann and Nancy Hill, until they respectively marry or arrive at tbe age of twenty-one years.” He also gives him a slave and other personal property.
+The complainant admits in her bill, and such is the proof, that she was well cared for and kindly treated and supported until the death of her grandmother, in 1857. Soon after that a difficulty arose between her and her uncle, the defendant, and she left his house and went to live with her sister, Amelia, who was then married. He made severe threats against her, and, as she charges, committed personal violence upon her. This conduct, however, on his part, was not without cause, but was the result of excitement produced by a very groundless charge against her aunt, to the effect that she had taken things that did not belong to her. The character of Mrs. Sharp is extraordinarily good, and the imputation was most unkind and thoughtless, if not wicked. But the complainant was young and inexperienced, and should have been forgiven, as she was by her good and kind aunt, if not by her uncle. Let the fault, however, rest where it may, the state of things is such as to render her continuance at his house improper.
+This bill was then filed, claiming that the defendant was bound, under the will of his father, to maintain and support her. Whether this is so or not is the question in the case. The chancellor thought he was, and so we think.
+It is admitted in argument that the obligations rested upon him, under the will, to assist his mother in the performance of the duty during her life, as a condition of using the land free of charge. But it is insisted that after the property became his, by the termination of the life estate, the incumbrance was removed, and he exonerated from the charge; that the word “assist” could have no application after the death of the tenant, for life, as there would be no one to assist after that event. This is only a play upon words. Tie uses strong language in the will. The devise of the life estate, as well as the remainder, is upon “condition” that their favorite grandchildren, who had been raised from infancy by him, and to whom he was most devotedly attached, should be secured in a home as well as a comfortable support and maintenance, until they married or arrived at the age of twenty-one. This was'dearly the intention of the testator, and the language does not conflict with it, though the purpose be awkwardly expressed. The testator was very old, and had a good estate of the value of eighteen or twenty thousand dollars, of which it seems he gave the defendant nearly one-third. This was doubtless, at least in part, in consequence of this charge upon him.
+This doctrine is fully discussed and settled in the cases of Jackson and others v. Bull, 10 John. R., 148, and Jackson v. Martin, 13 John. R., 21. The discussion’ in those cases is principally on the question as to whether the charge is personal, or upon the estate, so as to determine the quantity of estate given by implication, in the absence of words of inheritance. But it seems to be taken for granted in the cases, as wdl as the numerous authorities cited, that the obligation is cleai’ly imposed, either upon the devisee or upon the estate, in all such cases as the one now under consideration. The language here is much stronger than that employed in many of the cases cited by the court in Johnson.
+We think it very clear’ from the authorities, that the will in this case imposes a charge upon the devisee to' support the complainant until she is twenty-one, or marries. Whether such charges are upon the estate or personal, is a question of much perplexity in the books, and in this case it is not perhaps important to consider or decide it. If it should become necessary hereafter, it may be presented.
+By tbe cbancellor’s decree the defendant is to pay $150 a year for her support. We think that sum is about right from the proof on that point. The decree will be in all things affirmed, and the cause remanded- for its execution. The defendant will pay the costs of this court.
+Decree affirmed.
