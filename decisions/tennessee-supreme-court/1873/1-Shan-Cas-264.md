@@ -1,0 +1,17 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1873-04"
+citations: ["1 Shan. Cas. 264", "2 Leg. Rep., 76, 77, and 6 Bax., 415"]
+reporter: "shan-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DE SOTO BANK v. CITY OF MEMPHIS."]
+source_url: "https://static.case.law/shan-cas/1/cases/0264-05.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2648016
+cites_cases: ["6 Bax., 415"]
+---
+
+# De Soto Bank v. City of Memphis
+
+
