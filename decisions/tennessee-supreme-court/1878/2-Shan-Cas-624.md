@@ -1,0 +1,17 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1878-04"
+citations: ["2 Shan. Cas. 624"]
+reporter: "shan-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WM. BROWN v. McCLANAHAN."]
+source_url: "https://static.case.law/shan-cas/2/cases/0624-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8485434
+cites_cases: ["9 Bax., 347"]
+---
+
+# Brown v. McClanahan
+
+
