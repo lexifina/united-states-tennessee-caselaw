@@ -1,0 +1,40 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1959-05-01"
+citations: ["46 Tenn. App. 314", "329 S.W.2d 366"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hickerson and Shriver, JJ., concur."]
+parties: ["G. P. BLAIR v. WILLIAM GWOSDOF et al."]
+source_url: "https://static.case.law/tenn-app/46/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8508856
+cites_cases: ["110 Tenn. 35", "125 Tenn. 658", "148 S. W. 671", "15 S. W. 737", "170 Tenn. 10", "29 Tenn. App. 559", "34 Tenn. App. 235", "37 Tenn. App. 105", "40 Tenn. 188", "72 S. W. 459", "89 Tenn. 166", "91 S. W. (2d) 291"]
+---
+
+# Blair v. Gwosdof
+
+## Majority (FELTS, J.)
+
+FELTS, J.
+The bill was filed by G. P. Blair against William Gwosdof and his two adult children William Johnathan Merrill, III, and Pamela Allison Merrill, to remove two deeds to them as a cloud upon complainant’s title to a lot known as lot No. 469 in Maury and Claiborne’s addition to South Nashville, fronting 70 feet on the east side of Lewis Street and running back between parallel lilies 194 feet to Fairfield Avenue.
+These two deeds were made by James Cleveland and his sister Mary Cleveland Love to defendants William Johnathan Merrill, III, and Pamela Allison Merrill. The first one purported to convey to them a two-thirds undivided interest in “the northerly half” or 35 feet of this lot, and the second purported to convey to them a two-thirds undivided interest in the “southerly half” or 35 feet of the lot.
+The bill averred that defendant Gwosdof furnished the consideration to purchase the pretended right of the grantors, out of possession, and caused them to make these deeds to his children, after complainant had acquired the legal title and while he was in adverse possession of the lot; and that these deeds were, therefore, champertous and void and should be removed as a cloud.
+Defendant Gfwosdof answered and disclaimed any interest in the lot; and the other two defendants disclaimed any right to the northerly half of the lot, but set up claim, under their deed from James Cleveland and Mary Cleveland Love, to a two-thirds undivided interest in the southerly half of the lot; and they averred that they, and those under whom they claimed, had held continuous adverse possession of the lot more than seven years and more than 20 years.
+So, the only issue left under the pleadings was whether the deed under which they claimed was champertous. Considerable proof was taken by depositions. The Chancellor found that this deed was made by the grantors,'out of possession, after complainant had acquired title and while he was in adverse possession of the lot, and that the deed was champertous and void; and he entered a decree removing it as a cloud on complainant’s title. Defendants appealed.
+It appears lot No. 469 was formerly owned by Calvin G-. Cabler who died in the 1880’s or 90’s; and that his successors in title, Ethel Ward Patton and others, conveyed to complainant the northerly half of this lot, by general warranty deed, and the southerly half by deed without warranty, on August 29, 1955, these deeds being recorded September 16, 1955. Complainant then took possession of the lot, which was vacant and had grown up in bushes and trees, and began clearing it to put a building on it.
+Evidence for complainant was that there was pnce a small dwelling house on the southerly half or 35 feet of this lot; that Calvin Gr. Cabler told one of his colored servants, Jerry Cleveland, he might live in the house as long as he lived and paid the taxes; that Cleveland lived there until he died in 1948, his wife having predeceased him; that while the taxes were assessed to him, most of them were never paid; and that the old house fell to pieces and the lot had grown up in bushes and trees.
+It appears that Jerry Cleveland left three children; Tom Cleveland, James Cleveland, and Mary Cleveland Love. Evidence for defendants was that Jerry Cleveland occupied this half of the lot as long as he lived under a claim of right. Tom Cleveland conveyed to complainant his claim to a one-third undivided interest in this part of the lot by deed on October 26,1955; and, as before stated, James Cleveland and Mary Cleveland Love conveyed to defendants their claims to the two-thirds undivided interest by deed dated November 18, 1955, and recorded November 21,1955.
+Thus the deed under which defendants claim was made some two months after complainant’s deeds, and while he was in adverse possession of the lot. The Chancellor found that defendants ’ deed was made by the Clevelands, out of possession, while complainant was holding adverse possession of the land. The proof fully sustains this finding and we concur in it.
+Our champerty statutes prohibit the sale of any pretended right or title to land, and make such sale “utterly void, where the seller has not himself, or by his agent or tenant, or his ancestor, been in actual possession of the lands”, or “taken the rents or profits for one (1) whole year next before the sale” (T. C. A. secs. 64-406, 64-407).
+These statutes originated with the Acts of 1821, chapter 66, and their uniform construction has been, “that a sale, by one out of possession, of land adversely held, is void. It is immaterial whether the vendor’s title be valid or invalid. It becomes a pretended right, within the statute, when he offers to make a sale of it. It does not require any length of adverse possession to make a sale and conveyance of land so possessed by another, champertous. The fact that it is adversely held is enough. ’ ’ Kincaid v. Meadows, 40 Tenn. 188, 192.
+This early case has been followed by repeated decisions in this state, which hold that these statutes make utterly void every sale or grant of land adversely held, without regard to the length of adverse possession and without regard to whether the vendor’s title is valid or invalid.
+Some of the many cases so holding are: Green v. Cumberland Coal & Coke Co., 110 Tenn. 35, 38, 72 S. W. 459; Bleidorn v. Pilot Mountain Coal & Mining Co., 89 Tenn. 166, 204, 15 S. W. 737; Kitchen-Miller Co. v. Kern, 170 Tenn. 10, 15, 91 S. W. (2d) 291; Jones v. Mosley, 29 Tenn. App. 559, 568, 198 S. W. (2d) 652, 656; Robinson v. Harris, 37 Tenn. App. 105, 118-119, 260 S. W. (2d) 404, 410.
+As before stated, the proof shows that none of the Cleveland claimants had been in actual possession for many years and two of them, out of possession, made the deed to defendants while complainant was in adverse possession under registered assurance of title. Therefore, under our statutes and decisions, the deed under which defendants claim was champertous and utterly void, and the Chancellor properly removed it as a cloud upon complainant’s title. 2 Crownover’s Gibson’s Suits in Chancery (5th ed.), secs. 858, 1089.
+The decree of the Chancellor is affirmed and the costs of the appeal are adjudged against defendants-appellants and the surety on their appeal bond.
+On Petition to Rehear
+Defendants have filed a petition to rehear our holding that the deed under which they claim was champertous and void. In support of their petition, counsel makes an earnest argument; but it is only a reargument of matters already argued by counsel and considered and determined by the Court. It points out no new matter of law or fact overlooked but only reargues things which counsel say were erroneously decided by us after full argument and consideration.
+“ ‘The office of a petition to rehear is to call the attention of the court to matters overlooked, not to those things which the counsel supposes were improperly decided after full consideration’ ” (Louisville & N. Railroad Co. v. United States Fidelity & Guaranty Co., 125 Tenn. 658, 691, 148 S. W. 671, 680). Cos v. McCartney, 34 Tenn. App. 235, 242-243, 236 S. W. (2d) 736, 739, and cases there cited.
+The petition is denied at petitioners ’ cost.
+Hickerson and Shriver, JJ., concur.
