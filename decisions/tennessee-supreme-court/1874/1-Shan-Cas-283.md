@@ -1,10 +1,12 @@
 ---
 court: "Tennessee Supreme Court"
 decided: "1874-04"
+decided_precision: "month"
 citations: ["1 Shan. Cas. 283", "3 Leg. Rep., 143-144, and 7 Bax., 167"]
 reporter: "shan-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 parties: ["STATE v. R. W. KITTRELL."]
 source_url: "https://static.case.law/shan-cas/1/cases/0283-04.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
@@ -14,4 +16,11 @@ cites_cases: ["7 Bax., 167"]
 
 # State v. Kittrell
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+STATE v. R. W. KITTRELL.
+(S. C., 3 Leg. Rep., 143-144, and 7 Bax., 167.)
+Jackson,
+April Term, 1874.
