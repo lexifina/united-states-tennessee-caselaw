@@ -1,0 +1,25 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1876-01"
+citations: ["1 Shan. Cas. 532"]
+reporter: "shan-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COLLIER & JONES v. W. A. WILKINSON ET AL."]
+source_url: "https://static.case.law/shan-cas/1/cases/0532-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2643713
+---
+
+# Collier v. Wilkinson
+
+## Majority (McFarland, J.,)
+
+McFarland, J.,
+delivered the opinion of the court.
+In the year 1867, W. A. Wilkinson became the purchaser of certain lands formerly owned by Nelson L. Watkins, deceased, sold by decree of the chancery court for the payment of debts. Fie gave his notes, with T. C. Black as surety, for the purchase money. In the progress of the cause, and after the maturity of the notes, there was judgment for the full amount of the notes against Wilkinson and his security, Black.
+This judgment ivas reduced by various payments, until at the October term, 1871, the balance due was $2,791.73, and for the payment of this balance the court then ordered a resale of the land upon default of' payment within a given time. The sale was made on the first of April, 1872, and the land purchased by the said T. O. Black for $1,300, and the sale confirmed. The said Black then presented his petition to the court showing that he had paid on his bid the balance due for the purchase money, or a sum sufficient to pay said balance, and praying to be allowed to retain the remainder of the $1,300 bid by him, to reimburse himself for the amount of $1,500 and interest, which sum he insists he advanced to Wilkinson to make one of the payments previous to the resale of the land. Wilkinson did not resist the relief sought in the petition, but one Collier, and Collier &■ Co., and Collier •& Jones, were allowed to become defendants, and they answered and insisted upon a prior lien upon the surplus in the hands of Black arising from the sale.
+The facts in regard to the $1,500 payment on the judgment, the benefit of which Black claims, are as follows; Wilkinson made this payment on the twenty-ninth of March, 1869, having borrowed the money for the purpose, from one Lee Pierce, giving him a mortgage upon part of the land to secure him. Subsequently, to repay Pierce, Wilkinson borrowed an equal amount of money from Wm. Byrne, and gave a note with petitioner, Black, as security. There was afterwards judgment on this note against Wilkinson and Black, which was satisfied by Black, who thereupon took judgment over against Wilkinson for the amount. Upon this it is very clear that Black does not stand in the attitude of having made the payment to the clerk and master on the original judgment against Wilkinson and himself; the payment was made by Wilkinson. The result is not changed by the fact subsequently occurring — that is, by Black assisting Wilkinson to borrow the money to repay Pierce, the money first borrowed to make the payment. Black’s claim growing out of this transaction stands upon the same footing of a judgment in favor of any other party, and no higher; bnt, as intimated, Wilkinson not objecting, the relief might be allowed unless other parties have a prior lien.
+The defendants, Collier, Collier & Co., and Collier & Jones, are judgment creditors of Wilkinson, who had executions on their judgments returned nulla bona. They then filed their bills before the resale of the land in question, seeking to reach the interest of Wilkinson in the land — that is, to have it sold to discharge the balance of unpaid purchase money to the Watkins estate, and appropriate the surplus to their debts. We see no good reason why this relief should have been denied. It is, in substance, the case of a judgment creditor compelling another creditor to enforce a prior incumbrance upon property in order to reach the surplus. It is argued that Wilkinson, having failed to pay for the land, forfeited his right upon a resale, so that he had no attachable interest, the surplus, which it is admitted belonged to him, only arising upon the resale. This reasoning, though apparently justified by expressions found in the books, is not sound. Wilkinson was the owner of the land subject to the payment of the purchase money. It was resold as his land, and hence the surplus belonged to him.
+We think the filing of the bills of defendants, Collier and others, gave them a lien; and although they did not prosecute their causes to a decree, the resale having been ordered soon after in the original case, yet they came in to insist upon their rights thus acquired in this case without objection, and being prior in time, they must prevail. If the amount in the hands of Black be more than sufficient to pay the claims of the defendants, Jones and others, Black would be entitled to retain the balance, his claim being good against Wilkinson, but we suppose there will be no balance.
+The decree of the chancellor will be affirmed, with costs.
