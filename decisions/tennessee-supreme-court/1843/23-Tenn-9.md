@@ -1,0 +1,23 @@
+---
+court: "Tennessee Supreme Court"
+decided: "1843-04"
+citations: ["4 Hum. 9", "23 Tenn. 9"]
+reporter: "tenn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Williams vs. Karnes."]
+source_url: "https://static.case.law/tenn/23/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8541838
+---
+
+# Williams v. Karnes
+
+## Majority (Reese, J.)
+
+Reese, J.
+delivered the opinion of the court.
+This is an action on the case for defamation. The declaration contains a count for words spoken, and also for the writing and publication of a libel. The defendant filed his demurrer to both counts of the declaration, and the demurrer was sustained by the judgment of the Circuit Court. To reverse this judgment the plaintiff has prosecuted his appeal in error to this court. The count for verbal slander alleges the defamatory words to have been as follows: “Joseph Williams altered the ear-mark of my hog from my mark to his, or procured it to be done.” The offence of “mismarking” is made punishable by the act of 1741 by a pecuniary penalty for the first conviction, and by stripes for the second. This offence is not comprised within our present criminal or penitentiary code, and by the act of 1741, the power of punishment appears to be given, not to the courts of record by indictment, but to a Justice of the Peace, and, therefore, inconsistent with our constitution and bill of rights. For these reasons it is urged that the offence of “mis-marking” is no longer indictable, or if indictable, is not subjected to corporal or infamous punishment: and, therefore, that the imputation of the offence does not amount to verbal slander without the allegation and proof of special damage. And this we think is so, for the reasons stated. But if this were otherwise, still the words charged as being defamatory, having no intrinsic or fixed meaning importing crime, it should have been shown by the colloquium or otherwise that the word “altered” imported that the plaintiff had the fraudulent purpose of depriving the defendant of his property and of appropriating it to himself. We are of opinion, therefore, that the demurrer was properly sustained to the count for verbal slander. The paper alledged to be a libel is as follows:
+“May 28th, 1842. Notice. Tenn. Gibson county. I say to the people and world at large, that the Reverend Joseph Williams has been blowing and telling about through this country, that he is going to sue me for killing one of my own hogs, though my mark had been altered and made into his, which I can prove. The said Williams has never been to see me about the hog, though he says it was bis, I suppose; but I do not think that he will ever commence a suit, though I believe him to be none too good to claim my hog. I look on him as a rascal, and have watchedhim for many years. For fear people may be ata loss to know what Williams this is, I will say he lives near Wolf creek, a cabinet workman. And if the said Williams wishes to find me I never will be from home longer than four and twenty hours at a time; and if he wishes a suit I am ready and-willing at any hour. Abbaham Kabnes.”
+A libel or written defamation is the injurious detraction of any one by writing or equivalent symbols. The common law, in view of the natural passions of man, gives no action for mere defamatory words spoken, unless producing special damage, and confines the action of slander to such grosser words as impute positive crimes. It is not so, however, with written defamation; the words in such cases are not considered the results of transitory passion or levity, but gain the stamp and shape of an effective and mischievous malignity. Lord Holt says, (3 Salkeld, 226,) “Scandalous matter is not necessary to make a libel. It is enough if the defendants render an ill opinion to be had of the plaintiff, or make him contemptible and scandalous.” So also, (Skinner, 124,) to say of any .man he is dishonest, is not actionable, but to publish so, or put it upon posts, is actionable. This distinction not existing in early times, was brought in question in Thornley vs. Lord Kerry in the Exchequer Chamber, and,Chief Justice Mansfield himself, doubting the correctness of the distinction, admits it must be regarded as settled by the opinions of some of the greatest names known to the law, Hardwicke, Hale, Holt and others. The distinction has been fully sanctioned by the American cases. And this being so, it is not necessary to scan with any care the meaning of the paper before us. .It is obviously libellous, and the demurrer to that extent must be overruled.
+4th Taunton, 335.
