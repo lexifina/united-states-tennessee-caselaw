@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Supreme Court"
 decided: "1876-04"
-citations: ["68 Tenn. 1", "67 Tenn. 559"]
+decided_precision: "month"
+citations: ["68 Tenn. 1"]
 reporter: "tenn"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
